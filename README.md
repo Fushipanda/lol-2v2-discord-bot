@@ -1,4 +1,4 @@
-# League of Legends AI Category Selector Bot
+# League of Legends Champion Category Selector Bot
 
 **Description**  
 This Discord bot generates fun and unique categories for champion picks in **League of Legends** using a predetermined list or **ChatGPT**. It is designed primarily for custom ARAM games with friends but can be used for regular games as well.
